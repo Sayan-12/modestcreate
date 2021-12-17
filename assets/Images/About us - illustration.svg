@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="697" height="760" viewBox="0 0 697 760">
+  <defs>
+    <style>
+      .cls-1, .cls-5, .cls-6, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-5, .cls-6, .cls-9 {
+        stroke: #292929;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-width: 10px;
+        stroke-dasharray: 11 20;
+      }
+
+      .cls-10, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 5px;
+      }
+
+      .cls-6 {
+        stroke-width: 3px;
+      }
+
+      .cls-11, .cls-8 {
+        fill: #292929;
+      }
+
+      .cls-10, .cls-9 {
+        stroke-width: 4px;
+      }
+
+      .cls-11 {
+        font-size: 20px;
+        font-family: Dosis-ExtraBold, Dosis;
+        font-weight: 800;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-12 {
+        stroke: none;
+      }
+
+      .cls-13 {
+        filter: url(#Rectangle_141);
+      }
+
+      .cls-14 {
+        filter: url(#Rectangle_117);
+      }
+
+      .cls-15 {
+        filter: url(#Rectangle_112);
+      }
+
+      .cls-16 {
+        filter: url(#Rectangle_113);
+      }
+
+      .cls-17 {
+        filter: url(#Rectangle_147);
+      }
+
+      .cls-18 {
+        filter: url(#Path_98);
+      }
+
+      .cls-19 {
+        filter: url(#Path_97);
+      }
+
+      .cls-20 {
+        filter: url(#Line_34);
+      }
+
+      .cls-21 {
+        filter: url(#Line_29);
+      }
+    </style>
+    <filter id="Line_29" x="319.5" y="431" width="40" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_34" x="221" y="255" width="289.25" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_97" x="158.927" y="94.97" width="218.584" height="248.261" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_98" x="270.747" y="213.904" width="249.366" height="242.198" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_147" x="267" y="34" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_113" x="261" y="359" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_112" x="426" y="196" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117" x="95" y="196" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_141" x="261" y="585" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="About_us_-_illustration" data-name="About us - illustration" transform="translate(-390 -1709)">
+    <g id="Ellipse_22" data-name="Ellipse 22" transform="translate(-255.64 968.93)">
+      <g class="cls-21" transform="matrix(1, 0, 0, 1, 645.64, 740.07)">
+        <line id="Line_29-2" data-name="Line 29" class="cls-1" y1="137" transform="translate(339.5 446)"/>
+      </g>
+      <g class="cls-20" transform="matrix(1, 0, 0, 1, 645.64, 740.07)">
+        <line id="Line_34-2" data-name="Line 34" class="cls-1" x2="249.25" transform="translate(241 270)"/>
+      </g>
+      <g class="cls-19" transform="matrix(1, 0, 0, 1, 645.64, 740.07)">
+        <path id="Path_97-2" data-name="Path 97" class="cls-1" d="M1145.64,837.02a160.619,160.619,0,0,0-171.16,206.05" transform="translate(-788.64 -726.07)"/>
+      </g>
+      <g class="cls-18" transform="matrix(1, 0, 0, 1, 645.64, 740.07)">
+        <path id="Path_98-2" data-name="Path 98" class="cls-1" d="M1027.49,956.07a160.62,160.62,0,0,1-202.85,193.85" transform="translate(-532.64 -726.07)"/>
+      </g>
+    </g>
+    <g id="BRIED" transform="translate(14 -56.2)">
+      <g class="cls-17" transform="matrix(1, 0, 0, 1, 376, 1765.2)">
+        <g id="Rectangle_147-2" data-name="Rectangle 147" class="cls-2" transform="translate(276 38)">
+          <rect class="cls-12" width="128" height="128" rx="17"/>
+          <rect class="cls-7" x="3.5" y="3.5" width="121" height="121" rx="13.5"/>
+        </g>
+      </g>
+      <g id="Group_88" data-name="Group 88">
+        <g id="Rectangle_118" data-name="Rectangle 118" class="cls-3" transform="translate(686 1834.2)">
+          <rect class="cls-12" width="60" height="66" rx="10"/>
+          <rect class="cls-7" x="-2.5" y="-2.5" width="65" height="71" rx="12.5"/>
+        </g>
+        <g id="Rectangle_119" data-name="Rectangle 119" transform="translate(686 1834.2)">
+          <path id="Path_94" data-name="Path 94" class="cls-4" d="M10,0H50A10,10,0,0,1,60,10V27H0V10A10,10,0,0,1,10,0Z"/>
+          <path id="Path_95" data-name="Path 95" class="cls-5" d="M10-2.5H50A12.5,12.5,0,0,1,62.5,10V27A2.5,2.5,0,0,1,60,29.5H0A2.5,2.5,0,0,1-2.5,27V10A12.5,12.5,0,0,1,10-2.5Z"/>
+        </g>
+        <line id="Line_24" data-name="Line 24" class="cls-6" x2="44.203" transform="translate(695.414 1873.701)"/>
+        <line id="Line_25" data-name="Line 25" class="cls-6" x2="23.739" transform="translate(715.878 1881.887)"/>
+        <line id="Line_26" data-name="Line 26" class="cls-6" x2="30.287" transform="translate(709.329 1889.254)"/>
+        <g id="Ellipse_18" data-name="Ellipse 18" class="cls-6" transform="translate(696 1837.2)">
+          <circle class="cls-12" cx="8.5" cy="8.5" r="8.5"/>
+          <circle class="cls-7" cx="8.5" cy="8.5" r="7"/>
+        </g>
+        <g id="Polygon_2" data-name="Polygon 2" transform="translate(713 1840.2)">
+          <path id="Path_96" data-name="Path 96" class="cls-7" d="M10.5,0,21,18H0Z"/>
+          <path id="Path_97-3" data-name="Path 97" class="cls-8" d="M10.5,5.954,5.223,15H15.777L10.5,5.954M10.5,0,21,18H0Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="WEB_DEVELOPMENT" data-name="WEB DEVELOPMENT" transform="translate(-127 77)">
+      <g class="cls-16" transform="matrix(1, 0, 0, 1, 517, 1632)">
+        <g id="Rectangle_113-2" data-name="Rectangle 113" class="cls-2" transform="translate(276 369)">
+          <rect class="cls-12" width="128" height="128" rx="17"/>
+          <rect class="cls-7" x="3.5" y="3.5" width="121" height="121" rx="13.5"/>
+        </g>
+      </g>
+      <g id="Group_80" data-name="Group 80" transform="translate(1)">
+        <g id="Group_79" data-name="Group 79" transform="translate(303.172 9.624)">
+          <g id="Rectangle_128" data-name="Rectangle 128" class="cls-3" transform="translate(517.379 2022.376)">
+            <rect class="cls-12" width="72" height="66" rx="10"/>
+            <rect class="cls-7" x="-2.5" y="-2.5" width="77" height="71" rx="12.5"/>
+          </g>
+          <line id="Line_33" data-name="Line 33" class="cls-6" x2="76" transform="translate(515.828 2037.376)"/>
+          <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-8" cx="3" cy="3" r="3" transform="translate(557.379 2026.376)"/>
+          <circle id="Ellipse_20" data-name="Ellipse 20" class="cls-8" cx="3" cy="3" r="3" transform="translate(565.379 2026.376)"/>
+          <circle id="Ellipse_21" data-name="Ellipse 21" class="cls-8" cx="3" cy="3" r="3" transform="translate(573.379 2026.376)"/>
+        </g>
+        <path id="Path_94-2" data-name="Path 94" class="cls-8" d="M.741-10.8a2.858,2.858,0,0,1,.273-1.131,2.406,2.406,0,0,1,.936-1.053l9.906-6.435a1.149,1.149,0,0,1,.741-.195,2.152,2.152,0,0,1,.9.214,2.946,2.946,0,0,1,.858.6,3.321,3.321,0,0,1,.643.917,2.53,2.53,0,0,1,.254,1.111,1.636,1.636,0,0,1-.7,1.521L7.683-10.8l6.864,4.446a1.636,1.636,0,0,1,.7,1.521A2.53,2.53,0,0,1,15-3.725a3.321,3.321,0,0,1-.643.917,2.946,2.946,0,0,1-.858.6,2.152,2.152,0,0,1-.9.214,1.149,1.149,0,0,1-.741-.195L1.95-8.619a2.406,2.406,0,0,1-.936-1.053A2.858,2.858,0,0,1,.741-10.8ZM34.788-30.1a2.533,2.533,0,0,1,1.56.565,1.8,1.8,0,0,1,.741,1.5,1.639,1.639,0,0,1-.156.741L23.2.819a1.526,1.526,0,0,1-.7.7,2.193,2.193,0,0,1-1.053.273,2.023,2.023,0,0,1-1.6-.663,2.1,2.1,0,0,1-.585-1.4,1.66,1.66,0,0,1,.195-.741L33.15-29.133a1.549,1.549,0,0,1,.663-.741,2,2,0,0,1,.975-.234ZM55.614-10.8a2.858,2.858,0,0,1-.273,1.131A2.406,2.406,0,0,1,54.4-8.616L44.5-2.184a1.149,1.149,0,0,1-.741.195,2.152,2.152,0,0,1-.9-.214A2.946,2.946,0,0,1,42-2.8a3.321,3.321,0,0,1-.643-.917A2.53,2.53,0,0,1,41.1-4.832a1.636,1.636,0,0,1,.7-1.521L48.672-10.8l-6.864-4.446a1.636,1.636,0,0,1-.7-1.521,2.53,2.53,0,0,1,.254-1.111A3.321,3.321,0,0,1,42-18.8a2.946,2.946,0,0,1,.858-.6,2.152,2.152,0,0,1,.9-.214,1.149,1.149,0,0,1,.741.195l9.906,6.435a2.406,2.406,0,0,1,.936,1.053A2.858,2.858,0,0,1,55.614-10.8Z" transform="translate(828.822 2086)"/>
+      </g>
+    </g>
+    <g id="WEB_DESIGN" data-name="WEB DESIGN" transform="translate(831 1915)">
+      <g class="cls-15" transform="matrix(1, 0, 0, 1, -441, -206)">
+        <g id="Rectangle_112-2" data-name="Rectangle 112" class="cls-2" transform="translate(441 206)">
+          <rect class="cls-12" width="128" height="128" rx="17"/>
+          <rect class="cls-7" x="3.5" y="3.5" width="121" height="121" rx="13.5"/>
+        </g>
+      </g>
+      <g id="Group_76" data-name="Group 76" transform="translate(26.449 31)">
+        <g id="Group_78" data-name="Group 78">
+          <g id="Rectangle_128-2" data-name="Rectangle 128" class="cls-3" transform="translate(1.551)">
+            <rect class="cls-12" width="72" height="66" rx="10"/>
+            <rect class="cls-7" x="-2.5" y="-2.5" width="77" height="71" rx="12.5"/>
+          </g>
+          <line id="Line_33-2" data-name="Line 33" class="cls-6" x2="76" transform="translate(0 15)"/>
+          <circle id="Ellipse_19-2" data-name="Ellipse 19" class="cls-8" cx="3" cy="3" r="3" transform="translate(41.551 4)"/>
+          <circle id="Ellipse_20-2" data-name="Ellipse 20" class="cls-8" cx="3" cy="3" r="3" transform="translate(49.551 4)"/>
+          <circle id="Ellipse_21-2" data-name="Ellipse 21" class="cls-8" cx="3" cy="3" r="3" transform="translate(57.551 4)"/>
+        </g>
+        <rect id="Rectangle_132" data-name="Rectangle 132" class="cls-8" width="20" height="7" rx="3.5" transform="translate(10 45.16)"/>
+        <line id="Line_30" data-name="Line 30" class="cls-9" x2="50.051" transform="translate(10 28.947)"/>
+        <line id="Line_32" data-name="Line 32" class="cls-9" x2="38.051" transform="translate(10 37.053)"/>
+      </g>
+    </g>
+    <g id="UX_DESIGN" data-name="UX DESIGN" transform="translate(500 1915)">
+      <g class="cls-14" transform="matrix(1, 0, 0, 1, -110, -206)">
+        <g id="Rectangle_117-2" data-name="Rectangle 117" class="cls-2" transform="translate(110 206)">
+          <rect class="cls-12" width="128" height="128" rx="17"/>
+          <rect class="cls-7" x="3.5" y="3.5" width="121" height="121" rx="13.5"/>
+        </g>
+      </g>
+      <g id="Group_81" data-name="Group 81" transform="translate(19 15)">
+        <g id="Rectangle_136" data-name="Rectangle 136" class="cls-10" transform="translate(43 29)">
+          <rect class="cls-12" width="38" height="66" rx="6"/>
+          <rect class="cls-7" x="2" y="2" width="34" height="62" rx="4"/>
+        </g>
+        <rect id="Rectangle_140" data-name="Rectangle 140" class="cls-4" width="49" height="34" transform="translate(37 64)"/>
+        <g id="Rectangle_137" data-name="Rectangle 137" class="cls-10" transform="translate(9 47)">
+          <rect class="cls-12" width="38" height="22" rx="6"/>
+          <rect class="cls-7" x="2" y="2" width="34" height="18" rx="4"/>
+        </g>
+        <rect id="Rectangle_138" data-name="Rectangle 138" class="cls-4" width="34" height="58" transform="translate(9)"/>
+        <g id="Rectangle_134" data-name="Rectangle 134" class="cls-3" transform="translate(56 6)">
+          <rect class="cls-12" width="34" height="58" rx="8"/>
+          <rect class="cls-7" x="2.5" y="2.5" width="29" height="53" rx="5.5"/>
+        </g>
+        <g id="Rectangle_135" data-name="Rectangle 135" class="cls-3" transform="translate(0 32)">
+          <rect class="cls-12" width="34" height="58" rx="8"/>
+          <rect class="cls-7" x="2.5" y="2.5" width="29" height="53" rx="5.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="LAUNCH">
+      <g class="cls-13" transform="matrix(1, 0, 0, 1, 390, 1709)">
+        <g id="Rectangle_141-2" data-name="Rectangle 141" class="cls-2" transform="translate(276 594)">
+          <rect class="cls-12" width="128" height="128" rx="17"/>
+          <rect class="cls-7" x="3.5" y="3.5" width="121" height="121" rx="13.5"/>
+        </g>
+      </g>
+      <g id="ROCKET">
+        <path id="Polygon_3" data-name="Polygon 3" class="cls-3" d="M13.915,4.386a3,3,0,0,1,5.169,0l11.25,19.091A3,3,0,0,1,27.75,28H5.25a3,3,0,0,1-2.585-4.523Z" transform="matrix(0.766, 0.643, -0.643, 0.766, 710.811, 2348.277)"/>
+        <rect id="Rectangle_145" data-name="Rectangle 145" class="cls-3" width="16" height="16" rx="4" transform="matrix(0.766, 0.643, -0.643, 0.766, 713.276, 2376.453)"/>
+        <path id="Polygon_4" data-name="Polygon 4" class="cls-3" d="M13.915,4.386a3,3,0,0,1,5.169,0l11.25,19.091A3,3,0,0,1,27.75,28H5.25a3,3,0,0,1-2.585-4.523Z" transform="matrix(0.766, 0.643, -0.643, 0.766, 729.839, 2362.938)"/>
+        <rect id="Rectangle_146" data-name="Rectangle 146" class="cls-3" width="24" height="53" rx="5" transform="matrix(0.766, 0.643, -0.643, 0.766, 739.138, 2339.41)"/>
+        <path id="Polygon_5" data-name="Polygon 5" class="cls-3" d="M11.175,4.071a2,2,0,0,1,3.65,0l9.912,22.111A2,2,0,0,1,22.912,29H3.088a2,2,0,0,1-1.825-2.818Z" transform="matrix(0.766, 0.643, -0.643, 0.766, 753.155, 2321.148)"/>
+      </g>
+    </g>
+    <text id="WEB_DEVELOPMENT-2" data-name="WEB DEVELOPMENT" class="cls-11" transform="translate(472 2150)"><tspan x="0" y="0">WEB DEVELOPMENT</tspan></text>
+    <text id="UX_DESIGN-2" data-name="UX DESIGN" class="cls-11" transform="translate(390 1987)"><tspan x="0" y="0">UX DESIGN</tspan></text>
+    <text id="WEB_DESIGN-2" data-name="WEB DESIGN" class="cls-11" transform="translate(971 1987)"><tspan x="0" y="0">WEB DESIGN</tspan></text>
+    <text id="BRIEF" class="cls-11" transform="translate(703 1730)"><tspan x="0" y="0">BRIEF</tspan></text>
+    <text id="LAUNCH-2" data-name="LAUNCH" class="cls-11" transform="translate(693 2464)"><tspan x="0" y="0">LAUNCH</tspan></text>
+  </g>
+</svg>

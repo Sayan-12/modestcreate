@@ -1,0 +1,171 @@
+@media screen and (max-width: 1024px)
+ and (min-height:1000px),
+ screen and (max-width: 769px)
+ and (min-height: 769px),
+ screen and (max-width: 450px),
+ screen and (max-width: 600px),
+ screen and (max-width: 900px){
+    .team-btn {
+        font-size: 40px !important;
+    }
+    .goal {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+       
+        margin: auto;
+        height: 90vh;
+        flex-direction: column-reverse;
+        margin-bottom: 400px;
+    }
+    .goal-img img{
+        width: 800px;
+    }
+    .goal-text{
+        width: 800px;
+    }
+    .our-philosophy {
+        height: 80vh;
+        margin: auto;
+        width: 800px;
+    }
+    .keep-it-simple {
+        height: 90vh;
+    }
+    .team {
+        font-size: 40px;
+    }
+    #big_div{
+        height: 90vh;
+    }
+    .getStarted{
+        height: 70vh;
+        margin-bottom: 140px;
+    }
+
+ }
+ @media screen and (max-width: 769px){
+    .home h1 {
+        font-size: 65px;
+        margin: 40px 0 0 0;
+    }
+    .home p {
+        width: 670px;
+        font-size: 44px !important;
+        line-height: 1.4;
+    }
+    .goal{
+        width: 85vw;
+    }
+    .goal-text{
+        
+        width: 85vw;
+    }
+ 
+    .gola-heading{
+        width: 85vw;
+    }
+    .ourgoal{
+       
+        width: 85vw;
+    }
+    .goal-img {
+        width: 100vw;
+    }
+    .goal-img img{
+        width: 100vw;
+    }
+    .our-philosophy{
+        width: 85vw;
+    }
+    .ourstory-container {
+        
+        margin-top: 80px;
+        width: 100vw;
+    }
+    .illustration{
+        width: 85vw;
+    }
+    .illustration img{
+        width: 85vw;
+    }
+    .keep-it-simple{
+        width: 100vw;
+    }
+    .getStarted h1 {
+        font-size: 80px;
+       text-align: center;
+    }
+    
+ }
+
+ @media screen and (max-width:450px){
+    .home p {
+        width: 85vw;
+        font-size: 23px !important;
+    }
+    .team-btn {
+        font-size: 25px !important;
+    }
+    .goal {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: auto;
+        height: 80vh;
+        flex-direction: column-reverse;
+        margin-bottom: 200px;
+    }
+    .keep-it-simple {
+        height: 80vh;
+    }
+    .keep-it-simple h1{
+        width: 85vw;
+    }
+    .keep-it-simple {
+     
+        font-size: 55px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .team center{
+        font-size: 55px !important;
+    }
+    #big_div {
+        height: 212vh;
+       
+    width: 100%;
+    /* margin: auto; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    }
+    .small_cards {
+        padding: 12px;
+        /* position: absolute; */
+        height: 500px;
+        width: 333px;
+        /* background-color: #00C1D6; */
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        border-radius: 15px;
+        margin: 10px;
+    }
+    #card3 {
+        margin-top: 20px;
+    }
+    .getStarted{
+        height: 80vh;
+    }
+    .getStarted h1 {
+        font-size: 65px;
+        text-align: center;
+        margin-bottom: 100px;
+    }
+ }

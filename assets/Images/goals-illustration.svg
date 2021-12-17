@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="314" height="315" viewBox="0 0 314 315">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8f8f8;
+      }
+
+      .cls-10, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        stroke: #292929;
+        stroke-width: 4px;
+      }
+
+      .cls-2, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #f8f8f8;
+      }
+
+      .cls-3 {
+        stroke-width: 7px;
+      }
+
+      .cls-5 {
+        stroke-width: 8px;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #00c1d6;
+      }
+
+      .cls-8 {
+        fill: #292929;
+        font-size: 31px;
+        font-family: Dosis-SemiBold, Dosis;
+        font-weight: 600;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="goals-illustration" transform="translate(-898 -879)">
+    <rect id="Rectangle_110" data-name="Rectangle 110" class="cls-1" width="314" height="315" transform="translate(898 879)"/>
+    <g id="goals_illustrations" data-name="goals illustrations" transform="translate(-16.26 33.439)">
+      <g id="Group_66" data-name="Group 66" transform="translate(981.165 877)">
+        <line id="Line_16" data-name="Line 16" class="cls-2" x2="9.967" transform="translate(143.945 24.416)"/>
+        <line id="Line_17" data-name="Line 17" class="cls-2" x2="19.029" transform="translate(143.945 32.571)"/>
+        <line id="Line_18" data-name="Line 18" class="cls-2" x2="36.245" transform="translate(143.945 39.82)"/>
+        <g id="Rectangle_105" data-name="Rectangle 105" class="cls-3" transform="translate(113.811 3.122)">
+          <rect class="cls-9" width="26.534" height="38.24"/>
+          <rect class="cls-10" x="-3.5" y="-3.5" width="33.534" height="45.24"/>
+        </g>
+        <g id="Ellipse_11" data-name="Ellipse 11" class="cls-4" transform="translate(0 43.831)">
+          <circle class="cls-9" cx="81.034" cy="81.034" r="81.034"/>
+          <circle class="cls-10" cx="81.034" cy="81.034" r="79.034"/>
+        </g>
+        <g id="Ellipse_12" data-name="Ellipse 12" class="cls-4" transform="translate(20.943 65.587)">
+          <ellipse class="cls-9" cx="59.701" cy="59.278" rx="59.701" ry="59.278"/>
+          <ellipse class="cls-10" cx="59.701" cy="59.278" rx="57.701" ry="57.278"/>
+        </g>
+        <g id="Ellipse_13" data-name="Ellipse 13" class="cls-4" transform="translate(46.696 89.747)">
+          <ellipse class="cls-9" cx="33.948" cy="34.338" rx="33.948" ry="34.338"/>
+          <ellipse class="cls-10" cx="33.948" cy="34.338" rx="31.948" ry="32.338"/>
+        </g>
+        <rect id="Rectangle_108" data-name="Rectangle 108" class="cls-1" width="42" height="41" transform="translate(80.894 0.071)"/>
+        <line id="Line_9" data-name="Line 9" class="cls-5" y2="118.703" transform="translate(83.359 7.98)"/>
+        <g id="Ellipse_14" data-name="Ellipse 14" class="cls-6" transform="translate(66.986 110.818)">
+          <circle class="cls-9" cx="13.267" cy="13.267" r="13.267"/>
+          <circle class="cls-10" cx="13.267" cy="13.267" r="11.267"/>
+        </g>
+        <rect id="Rectangle_106" data-name="Rectangle 106" class="cls-7" width="33.557" height="24.193" transform="translate(81.034 8.584)"/>
+        <rect id="Rectangle_107" data-name="Rectangle 107" class="cls-7" width="24.973" height="27.314" transform="translate(113.811 14.047)"/>
+        <line id="Line_8" data-name="Line 8" class="cls-2" y2="116.891" transform="translate(80.515 8.105)"/>
+        <line id="Line_10" data-name="Line 10" class="cls-2" x2="33.527" transform="translate(80.515 8.105)"/>
+        <line id="Line_11" data-name="Line 11" class="cls-2" y1="31.715" transform="translate(114.042 8.105)"/>
+        <line id="Line_12" data-name="Line 12" class="cls-2" x2="27.184" transform="translate(86.858 32.344)"/>
+        <line id="Line_13" data-name="Line 13" class="cls-2" x2="24.466" transform="translate(114.042 39.82)"/>
+        <line id="Line_14" data-name="Line 14" class="cls-2" x2="17.217" transform="translate(121.291 13.542)"/>
+        <line id="Line_15" data-name="Line 15" class="cls-2" y1="25.372" transform="translate(138.508 14.448)"/>
+      </g>
+      <text id="GOAL" class="cls-8" transform="translate(1060.86 1122.051)"><tspan x="-33.495" y="0">GOAL</tspan></text>
+    </g>
+  </g>
+</svg>

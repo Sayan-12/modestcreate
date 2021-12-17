@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    
+    <link rel="stylesheet" href="./assets/css/nav2.css">
+    <link rel="stylesheet" href="./assets/css/style2.css">
+    <link rel="stylesheet" href="./assets/css/navphone2.css">
+
+    <link rel="stylesheet" href="./assets/css/indexres2.css">
+
+    <script src="./assets/js/main.js" defer></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- navbar starts -->
+
+    <nav class="big_nav">
+        <div class="nav-items">
+
+
+            <div class="left-item nav-links">
+                <ul>
+                    <li><a href="ourstory.html">OUR STORY</a></li>
+                    <li><a href="service.html">SERVICES</a></li>
+                    <li><a href="#" class="last-item">BLOG</a></li>
+                </ul>
+            </div>
+
+            <div class="middle-item logo-area">
+                <a href="index.html"><img src="./assets/Images/navlogo.svg" alt=""></a>
+                <a href="index.html" class="name">MODESTCREATE</a>
+            </div>
+
+            <div class="right-item nav-links">
+                <ul>
+                    <li><a href="portfolio.html">PORTFOLIO</a></li>
+                    <li><a href="contact.html" class="contact-btn" style="color: white;">CONTACT</a></li>
+                </ul>
+
+
+            </div>
+
+
+        </div>
+
+    </nav>
+
+
+    <nav class="small_nav">
+
+        <div class="smallNavItems">
+
+            <div class="forMeasurement burgerMenu">
+
+            </div>
+            <div class="middle-item logo-area">
+                <a href="#"><img src="./assets/Images/navlogo.svg" alt=""></a>
+                <a href="#" class="name">MODESTCREATE</a>
+            </div>
+
+            <div class="burgerMenu" onclick="showMenu()">
+                <div class="bar" id="animate_bar1"></div>
+                <div class="bar" id="animate_bar2"></div>
+                <div class="bar" id="animate_bar3"></div>
+            </div>
+
+        </div>
+
+    </nav>
+
+    <div class="menu">
+
+        <div id="menuItems">
+            <a href="ourstory.html">
+                <p>Our story</p>
+            </a>
+            <a href="service.html">
+                <p>Services</p>
+            </a>
+            <a href="blog.html">
+                <p>Blog</p>
+            </a>
+            <a href="portfolio.html">
+                <p>Portfolio</p>
+            </a>
+            <a href="contact.html">
+                <p>Contact</p>
+            </a>
+        </div>
+
+    </div>
+
+
+
+
+
+
+    <!-- <header class="navbar" id="navbar">
+        <div id="main_menu">
+            <div class="logo_area">
+                <a href="#"><img src="./assets/Images/navlogo.svg" alt=""></a>
+                <a href="#" class="name">MODESTCREATE</a>
+            </div>
+            <div class="inner_main_menu">
+                <ul>
+                    <li><a href="#">Our Story</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Blog</a></li>
+
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#" class="contact-btn" style="color: white;">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </header> -->
+    <!-- navbar ends -->
+
+    <!-- hero section starts -->
+
+    <section class="home" id="home">
+        <h1>Define. Design. Deliver. <br> Simple and Great. </h1>
+        <p>great online experiences for your customers.</p>
+        <div class="buttons" style="display: flex; justify-content: center; align-items: center;">
+            <a href="contact.html"><button class="contact-btn btn" id="contactBtn"
+                    style="text-transform: uppercase;">Contact</button></a>
+            <a href="portfolio.html"><button class="portfolio-btn btn" style="text-transform: uppercase;">Portfolio</button></a>
+        </div>
+    </section>
+    <!-- hero section ends -->
+    <div id="invisible" style="position: absolute; top: 534px;"></div>
+    <!-- tabs start -->
+    <section id=page class="page">
+
+
+        <div id="tab" class="container example" style="left: 0; right: 0;">
+            <div class="tabBtnWrapper" id="wrap">
+                <div id="tab_btn_container">
+                    <button onclick="changeTab(this,'Home', 0, '')" class="active"><a href="#invisible"
+                            style="text-decoration: none; color: #292929;" class="tab-btn"> Web Design</a></button>
+                    <button onclick="changeTab(this,'Contact',1)"><a href="#invisible"
+                            style="text-decoration: none; color: #292929;" class="tab-btn"> UI UX Design</a></button>
+                    <button onclick="changeTab(this,'About',2)"><a href="#invisible"
+                            style="text-decoration: none; color: #292929;" class="tab-btn">App Design</a> </button>
+                </div>
+
+                <div id="tab_indicator_container">
+                    <div class="tab_indicator"></div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="tab_container">
+            <div id="Home" class="c-tab__content">
+                <div class="home2" id="home2">
+                    <div class="content2">
+                        <div class="col-2">
+                            <img src="assets/Images/WEBSITE ILLUSTRATION 2.1.png" alt="" class="controller" data-aos="fade-down"
+                                data-aos-duration="1400" data-aos-delay="0">
+
+
+
+                        </div>
+
+
+
+                        <div class="col-1">
+                            <h4 style="text-transform: capitalize;" data-aos="fade-down" data-aos-duration="1000"
+                                data-aos-delay="0">
+                                We don't design websites!
+                                </br>
+                            </h4>
+
+                            <p data-aos="fade-down" data-aos-duration="1600" data-aos-delay="0">We design great
+                                online 
+                                experiences, for our
+                                customers.One that they'll never forget.
+                            </p>
+
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+                <div class="home3">
+                    <div class="content3">
+                        <div class="content-heading">
+                            <h4>Wait...What's a great website?</h4>
+                        </div>
+                        <div class="content-text">
+                            <p>A natural user interface and an impossible to forget user experience, that will help you
+                                connect with your customers in a deeper level.
+
+                            </p>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="portfolio">
+
+                    <div class="portfolio-heading">
+                        <h4 style="font-family: 'Poppins',sans-serif;">Featured web design projects:</h4>
+                    </div>
+
+                    <div class="photo-grid container2">
+                        <div class="img div1"
+                            style="background: url(assets/Images/6181e48ceed63c198f7c787dbfc4fc48.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div2 wide"
+                            style="background: url(assets/Images/unicolor-desktop-screen-mockup_157104-634.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div3 wide"
+                            style="background: url(assets/Images/127659228-landing-page-template-for-business-modern-web-page-design-concept-layout-for-website-vector-illustra.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div4"
+                            style="background: url(assets/Images/0_EdoI3Jp7xkK8AAhp.png) no-repeat center center / cover">
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+              
+
+
+
+
+            </div>
+
+            <div id="About" class="c-tab__content">
+                <div class="home2" id="home2">
+                    <div class="content2">
+                        <div class="col-2">
+                            <img src="assets/Images/WEBSITE ILLUSTRATION 2.1.png" alt="" class="controller" data-aos="fade-down"
+                                data-aos-duration="1400" data-aos-delay="0">
+
+
+
+                        </div>
+
+
+
+                        <div class="col-1">
+                            <h4 style="text-transform: capitalize;" data-aos="fade-down" data-aos-duration="1000"
+                                data-aos-delay="0">
+                                We don't design websites!
+                                </br>
+                            </h4>
+
+                            <p data-aos="fade-down" data-aos-duration="1600" data-aos-delay="0">We design great
+                                online 
+                                experiences, for our
+                                customers.One that they'll never forget.
+                            </p>
+
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+                <div class="home3">
+                    <div class="content3">
+                        <div class="content-heading">
+                            <h4>Wait...What's a great website?</h4>
+                        </div>
+                        <div class="content-text">
+                            <p>A natural user interface and an impossible to forget user experience, that will help you
+                                connect with your customers in a deeper level.
+
+                            </p>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="portfolio">
+
+                    <div class="portfolio-heading">
+                        <h4 style="font-family: 'Poppins',sans-serif;">Featured web design projects:</h4>
+                    </div>
+
+                    <div class="photo-grid container2">
+                        <div class="img div1"
+                            style="background: url(assets/Images/6181e48ceed63c198f7c787dbfc4fc48.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div2 wide"
+                            style="background: url(assets/Images/unicolor-desktop-screen-mockup_157104-634.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div3 wide"
+                            style="background: url(assets/Images/127659228-landing-page-template-for-business-modern-web-page-design-concept-layout-for-website-vector-illustra.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div4"
+                            style="background: url(assets/Images/0_EdoI3Jp7xkK8AAhp.png) no-repeat center center / cover">
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <div id="Contact" class="c-tab__content">
+                <div class="home2" id="home2">
+                    <div class="content2">
+                        <div class="col-2">
+                            <img src="assets/Images/WEBSITE ILLUSTRATION 2.1.png" alt="" class="controller" data-aos="fade-down"
+                                data-aos-duration="1400" data-aos-delay="0">
+
+
+
+                        </div>
+
+
+
+                        <div class="col-1">
+                            <h4 style="text-transform: capitalize;" data-aos="fade-down" data-aos-duration="1000"
+                                data-aos-delay="0">
+                                We don't design websites!
+                                </br>
+                            </h4>
+
+                            <p data-aos="fade-down" data-aos-duration="1600" data-aos-delay="0">We design great
+                                online 
+                                experiences, for our
+                                customers.One that they'll never forget.
+                            </p>
+
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+                <div class="home3">
+                    <div class="content3">
+                        <div class="content-heading">
+                            <h4>Wait...What's a great website?</h4>
+                        </div>
+                        <div class="content-text">
+                            <p>A natural user interface and an impossible to forget user experience, that will help you
+                                connect with your customers in a deeper level.
+
+                            </p>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="portfolio">
+
+                    <div class="portfolio-heading">
+                        <h4 style="font-family: 'Poppins',sans-serif;">Featured web design projects:</h4>
+                    </div>
+
+                    <div class="photo-grid container2">
+                        <div class="img div1"
+                            style="background: url(assets/Images/6181e48ceed63c198f7c787dbfc4fc48.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div2 wide"
+                            style="background: url(assets/Images/unicolor-desktop-screen-mockup_157104-634.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div3 wide"
+                            style="background: url(assets/Images/127659228-landing-page-template-for-business-modern-web-page-design-concept-layout-for-website-vector-illustra.jpg) no-repeat center center / cover">
+                        </div>
+                        <div class="img div4"
+                            style="background: url(assets/Images/0_EdoI3Jp7xkK8AAhp.png) no-repeat center center / cover">
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+    </section>
+
+
+    <section class="home3 tab_container">
+        <div class="content3">
+
+            <div class="content-text" style="margin-bottom: 300px;">
+                <p>Shhhh! don't tell anyone... I got a gift for you...
+                    when negotiating with our team over email... just send them this code - <b>BEMODEST</b>
+                    - and get a cool discount.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- tab ends -->
+
+    <section class="testim" id="testim">
+        <div class="wrap">
+
+            <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
+            <span id="left-arrow" class="arrow left fa fa-chevron-left"></span>
+
+            
+
+            <div class="cont" id="testim-content">
+
+                <div class="active test-text">
+                    <div class="img2"><img src="/assets/Images/6181e48ceed63c198f7c787dbfc4fc48.jpg"></div>
+                    <h2>Lorem N. Ipsum</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quasi aliquid vel voluptatum
+                        deleniti! Corrupti velit, porro facere facilis laboriosam accusantium, eos beatae maiores.</p>
+                </div>
+
+                <div class="test-text">
+                    <div class="img2"><img src="/assets/Images/6181e48ceed63c198f7c787dbfc4fc48.jpg"></div>
+                    <h2>Lorem L. Ipsum</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quasi aliquid vel voluptatum
+                        deleniti! Corrupti velit, porro facere facilis laboriosam accusantium, eos beatae maiores.</p>
+                </div>
+
+                <div class="test-text">
+                    <div class="img2"><img src="/assets/Images/6181e48ceed63c198f7c787dbfc4fc48.jpg"></div>
+                    <h2>Lorem R. Ipsum</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quasi aliquid vel voluptatum
+                        deleniti! Corrupti velit, porro facere facilis laboriosam accusantium, eos beatae maiores.</p>
+                </div>
+
+                <div class="test-text">
+                    <div class="img2"><img src="/assets/Images/6181e48ceed63c198f7c787dbfc4fc48.jpg"></div>
+                    <h2>Lorem P. Ipsum</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quasi aliquid vel voluptatum
+                        deleniti! Corrupti velit, porro facere facilis laboriosam accusantium, eos beatae maiores.</p>
+                </div>
+
+                <div class="test-text">
+                    <div class="img2"><img src="/assets/Images/6181e48ceed63c198f7c787dbfc4fc48.jpg"></div>
+                    <h2>Lorem Q. Ipsum</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quasi aliquid vel voluptatum
+                        deleniti! Corrupti velit, porro facere facilis laboriosam accusantium, eos beatae maiores.</p>
+                </div>
+            </div>
+            <ul class="dots" id="testim-dots">
+                <li class="dot active"></li>
+                <li class="dot"></li>
+                <li class="dot"></li>
+                <li class="dot"></li>
+                <li class="dot"></li>
+            </ul>
+
+        </div>
+    </section>
+
+    <section class="getStarted">
+        <div class="section-heading">
+            <h1>Let's Get Started</h1>
+        </div>
+        <div class="section-btn">
+            <button><a href="#">Contact Us</a></button>
+        </div>
+    </section>
+
+
+
+
+    <!-- footer starts -->
+    <footer>
+
+        <div class="footer-content">
+            <div class="logo-area">
+                <a href="#home"><img src="./assets/Images/FooterLogo.svg" alt=""></a>
+                <a href="index.html" class="name">MODESTCREATE</a>
+            </div>
+
+            <div class="footer-links" id="footer-links">
+                <div class="footer-links">
+                    <a href="ourstory.html">Our story</a>
+                    <a href="service.html">Services</a>
+                    <a href="portfolio.html" class="footerBigScreen">Portfolio</a>
+                    <a href="blog.html">Blog</a>
+                    <a href="contact.html" class="footerBigScreen">Contact</a>
+                </div>
+               
+                <div class="footerSeparator" style="display: none;">
+                    <a href="portfolio.html">Portfolio</a>
+                    <a href="contact.html">Contact</a>
+                </div>
+            </div>
+
+            <div class="footer-contact">
+                <a href="mailto:soumyaofficial99@gmail.com" class="footer-email">hello@modescreate.com</a>
+                <a href="#" class="footer-numbers">+91 6900 230 140</a>
+                <a href="#" class="footer-numbers">+91 8910 515 743</a>
+            </div>
+
+            <div class="social-icons">
+                <div class="icon">
+                    <a href="#"><img src="./assets/Images/facebook.svg" alt="facebook logo"></a>
+                </div>
+                <div class="icon">
+                    <a href="#"><img src="./assets/Images/insta.svg" alt="instagram logo"></a>
+                </div>
+            </div>
+
+            <div class="legal-stuff">
+                <div class="comapany-name">
+                    2021 All rights reserved
+                </div>
+
+                <div class="copyright">
+                    &#169; Modestcreate Design
+                </div>
+
+                <div class="privacy-terms">
+                    <a href="#" class="privacy">Privacy</a>
+                    <a href="#" class="t-c">T&C</a>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+
+    <!-- footer ends -->
+
+
+
+    <script>
+
+        document.getElementsByClassName('c-tab__content')[0].style.display = "block";
+
+        function changeTab(but, n, m, a) {
+            var tabs = document.getElementsByClassName('c-tab__content');
+            for (let i = 0; i < tabs.length; i++) {
+                tabs[i].style.display = "none";
+            }
+            document.getElementById(n).style.display = "block";
+            var tab_btn = document.querySelectorAll("#tab button");
+            for (let i = 0; i < tab_btn.length; i++) {
+                tab_btn[i].classList.remove('active');
+            }
+            let nav_marker = document.getElementsByClassName('tab_indicator')[0];
+            nav_marker.style.left = `calc(calc(100% / 2) * ${m})`;
+            but.classList.add('active');
+            console.log(nav_marker);
+            console.log(tab_btn);
+        }
+
+        window.onscroll = function () { myFunction2() };
+
+        var navbar2 = document.querySelector("#tab");
+        var sticky = navbar2.offsetTop;
+        var body = document.getElementsByTagName("body")
+
+        function myFunction2() {
+            console.log(screen.width);
+
+            if (screen.width <= 1024 && screen.height >1000  || screen.width <= 768) {
+                console.log(screen.width);
+                navbar2.classList.remove("sticky");
+                navbar2.classList.add("example");
+            }
+
+            else {
+                if (window.pageYOffset + 85 >= sticky) {
+
+                    navbar2.classList.add("sticky");
+                    navbar2.classList.remove("example");
+                } else {
+                    navbar2.classList.remove("sticky");
+                    navbar2.classList.add("example");
+                }
+            }
+
+
+        }
+    </script>
+
+
+
+</body>
+
+</html>

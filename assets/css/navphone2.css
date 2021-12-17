@@ -1,0 +1,153 @@
+
+
+@media only screen and (max-width: 900px){
+
+}
+
+/* @media only screen and (max-height: 1370px)
+and (max-width: 1024px){
+
+  nav{
+    width: 100%;
+  }
+  nav .nav-items{
+    width: 200px;
+    margin: auto;
+
+    height: 114px;
+
+    justify-content: center;
+  }
+
+  
+
+  nav .nav-links{
+    display: none;
+  }
+
+  footer .legal-stuff{
+      width:80%;
+  }
+  footer .footer-links{
+      width:80%;
+}
+
+} */
+
+@media only screen and (max-width: 600px){
+  nav{
+    width: 100%;
+  }
+  nav .nav-items{
+    width: 200px;
+    margin: auto;
+
+    height: 114px;
+
+    justify-content: center;
+  }
+
+  
+
+  nav .nav-links{
+    display: none;
+  }
+
+  footer .legal-stuff{
+      width:80%;
+  }
+  footer .footer-links{
+      width:80%;
+}
+
+
+@media only screen and (max-width: 400px){
+
+}
+
+
+
+/* @media only screen 
+    and (min-device-width: 375px)
+    and (max-width: 400px) 
+    and (min-device-height: 812px) 
+    and (-webkit-device-pixel-ratio: 3)
+    and (orientation: portrait) { 
+    
+
+  
+  
+    nav .nav-items{
+      width:100vw;
+      justify-content: center;
+    }
+
+    nav .nav-links{
+      display: none;
+    }
+
+    .home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    min-height: 100vh;
+    padding: 100px 0% 0;
+   
+    background-color: #F8F8F8;
+}
+
+    .home h1 {
+      font-size: 80px;
+      text-align: center;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      text-transform: capitalize;
+      margin-top: 100px;
+      margin-bottom: 10px;
+      color: #292929;
+      line-height: 4;
+      width: 812px;
+  }
+  .home p{
+    font-size: 60px;
+  }
+  .res {
+    position: absolute;
+    bottom: 74px;
+    font-size: 36px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+}
+
+    footer.footer-content{
+      width: 80%;
+    }
+    footer .footer-links{
+      width: 80%;
+    }
+    footer .legal-stuff{
+      width: 80%;
+    }
+
+    footer .comapany-name{
+      width: 100px;
+    }
+    footer .copyright{
+      align-content: center;
+    }
+
+    footer .privacy-terms{
+      width: 100px;
+      opacity: 70%;
+    }
+
+
+
+}
+
+
+@media only screen {
+  
+} */
+}
